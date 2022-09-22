@@ -1,0 +1,8 @@
+body, html {
+    background: linear-gradient(40deg,#000000, #5cd109);
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    vertical-align: middle;
+    text-align: center;
+}
